@@ -24,4 +24,3 @@ To create a child theme, follow these steps:
 	```
 
 Note: Make sure to activate your child theme in the WordPress admin after completing these steps.
-
